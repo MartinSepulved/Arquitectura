@@ -1,0 +1,12 @@
+martinsepu_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g09bcca5d728931_martinsepu_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+martinsepu_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g09bcca5d728931_martinsepu_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+martinsepu_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g09bcca5d728931_martinsepu_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+martinsepu_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g09bcca5d728931_martinsepu_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+martinsepu_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g09bcca5d728931_martinsepu_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
